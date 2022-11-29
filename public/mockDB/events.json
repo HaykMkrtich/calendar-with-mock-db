@@ -1,0 +1,72 @@
+[
+  {
+    "date": null,
+    "startTime": 11,
+    "duration": 1,
+    "eventId": "34bd8437-3e65-4369-957a-714d87bfc1fe",
+    "title": "Event 1"
+  },
+  {
+    "date": null,
+    "startTime": 15,
+    "duration": 5,
+    "eventId": "16b66d3b-6775-43c6-a796-8c7f57eddf96",
+    "title": "Event 2"
+  },
+  {
+    "date": null,
+    "startTime": 18,
+    "duration": 2,
+    "eventId": "7215d9e2-ef44-4172-892a-960f8a8b6ab8",
+    "title": "Event 3"
+  },
+  {
+    "date": null,
+    "startTime": 20,
+    "duration": 1,
+    "eventId": "db36be4e-eeb9-4339-8d77-ace5d41eedea",
+    "title": "Event 4"
+  },
+  {
+    "date": null,
+    "startTime": 17,
+    "duration": 6,
+    "eventId": "d489ea63-5ffe-43a1-af41-2553a44dd4a6",
+    "title": "Event 5"
+  },
+  {
+    "date": null,
+    "startTime": 14,
+    "duration": 3,
+    "eventId": "33f83570-ab78-499f-a944-f155aa610ee7",
+    "title": "Event 6"
+  },
+  {
+    "date": null,
+    "startTime": 15,
+    "duration": 2,
+    "eventId": "fd7b27d6-c505-4774-bbc4-1745792ede48",
+    "title": "Event 7"
+  },
+  {
+    "date": null,
+    "startTime": 18,
+    "duration": 2,
+    "eventId": "198954c9-6149-43d7-842b-97707ef98432",
+    "title": "Event 8"
+  },
+  {
+    "date": null,
+    "startTime": 21,
+    "duration": 1,
+    "eventId": "7ea19fb1-2ce0-4a5c-8c84-cf03be7304e2",
+    "title": "Event 9"
+  },
+  {
+    "date": null,
+    "startTime": 17,
+    "duration": 2,
+    "eventId": "2b0f3a06-ae77-4a5f-8feb-aaab475ab2a1",
+    "title": "Event 10"
+  }
+]
